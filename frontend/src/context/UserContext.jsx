@@ -20,4 +20,4 @@ const UserContext = ({children}) => {
   )
 }
 
-export default UserContext
+export default UserContext;
